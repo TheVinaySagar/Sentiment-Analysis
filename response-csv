@@ -1,0 +1,251 @@
+{
+  "sentimentAnalysisResults": {
+    "Absolutely love this product!": {
+      "negative": 0.0,
+      "neutral": 2.0,
+      "positive": 8.0
+    },
+    "Amazing product, highly satisfied!": {
+      "negative": 0.0,
+      "neutral": 2.0,
+      "positive": 8.0
+    },
+    "Arrived damaged, very disappointed.": {
+      "negative": 8.0,
+      "neutral": 2.0,
+      "positive": 0.0
+    },
+    "Average performance, nothing special.": {
+      "negative": 3.0,
+      "neutral": 5.0,
+      "positive": 2.0
+    },
+    "Awful experience, would not buy again.": {
+      "negative": 10.0,
+      "neutral": 0.0,
+      "positive": 0.0
+    },
+    "Better than expected!": {
+      "error": "Invalid API response format"
+    },
+    "Customer service was really helpful.": {
+      "negative": 0.0,
+      "neutral": 2.0,
+      "positive": 8.0
+    },
+    "Delivered quickly, works as intended.": {
+      "negative": 1.0,
+      "neutral": 1.0,
+      "positive": 8.0
+    },
+    "Does the job, no complaints.": {
+      "negative": 0.0,
+      "neutral": 3.0,
+      "positive": 7.0
+    },
+    "Exceeded my expectations!": {
+      "error": "Invalid API response format"
+    },
+    "Exceeded my expectations, fantastic!": {
+      "negative": 0.0,
+      "neutral": 2.0,
+      "positive": 8.0
+    },
+    "Excellent value, would buy again.": {
+      "negative": 0.0,
+      "neutral": 2.0,
+      "positive": 8.0
+    },
+    "Extremely frustrating experience.": {
+      "negative": 8.0,
+      "neutral": 2.0,
+      "positive": 0.0
+    },
+    "Fantastic design and great quality.": {
+      "negative": 0.0,
+      "neutral": 2.0,
+      "positive": 8.0
+    },
+    "Fantastic performance for the price.": {
+      "negative": 0.0,
+      "neutral": 2.0,
+      "positive": 8.0
+    },
+    "Great product, very useful!": {
+      "negative": 0.0,
+      "neutral": 2.0,
+      "positive": 8.0
+    },
+    "Great value for money!\ud83d\ude03": {
+      "negative": 0.0,
+      "neutral": 2.0,
+      "positive": 8.0
+    },
+    "Happy with the purchase overall.": {
+      "negative": 1.0,
+      "neutral": 1.0,
+      "positive": 8.0
+    },
+    "Highly satisfied with the purchase.": {
+      "negative": 0.0,
+      "neutral": 2.0,
+      "positive": 8.0
+    },
+    "Horrible quality, won\u2019t buy again.": {
+      "negative": 8.0,
+      "neutral": 2.0,
+      "positive": 0.0
+    },
+    "I had a terrible experience with this.": {
+      "negative": 8.0,
+      "neutral": 2.0,
+      "positive": 0.0
+    },
+    "I had higher expectations, sadly disappointed.": {
+      "error": "Invalid API response format"
+    },
+    "I regret purchasing this item.": {
+      "negative": 8.0,
+      "neutral": 2.0,
+      "positive": 0.0
+    },
+    "I would definitely buy this again!\ud83d\ude04": {
+      "negative": 0.0,
+      "neutral": 1.0,
+      "positive": 9.0
+    },
+    "It didn\u2019t work as advertised.": {
+      "error": "Invalid API response format"
+    },
+    "It stopped working after a month.": {
+      "negative": 4.0,
+      "neutral": 4.0,
+      "positive": 2.0
+    },
+    "It works perfectly as expected.": {
+      "negative": 1.0,
+      "neutral": 1.0,
+      "positive": 8.0
+    },
+    "I\u2019m quite pleased with this product.": {
+      "negative": 0.0,
+      "neutral": 2.0,
+      "positive": 8.0
+    },
+    "Mediocre at best, not recommended.": {
+      "negative": 8.0,
+      "neutral": 1.0,
+      "positive": 1.0
+    },
+    "Not as described, very disappointed.": {
+      "negative": 4.0,
+      "neutral": 5.0,
+      "positive": 1.0
+    },
+    "Not durable, broke after a few uses.": {
+      "negative": 8.0,
+      "neutral": 2.0,
+      "positive": 0.0
+    },
+    "Not what I was hoping for.": {
+      "negative": 3.0,
+      "neutral": 2.0,
+      "positive": 5.0
+    },
+    "Not worth the price at all.\ud83d\ude41": {
+      "negative": 9.0,
+      "neutral": 1.0,
+      "positive": 0.0
+    },
+    "Poor quality and bad customer service.\ud83d\ude21": {
+      "negative": 5.0,
+      "neutral": 5.0,
+      "positive": 0.0
+    },
+    "Quite good, but could be improved.": {
+      "negative": 2.0,
+      "neutral": 2.0,
+      "positive": 6.0
+    },
+    "Solid product, good value for the price.": {
+      "negative": 1.0,
+      "neutral": 1.0,
+      "positive": 8.0
+    },
+    "Terrible product, avoid at all costs.": {
+      "negative": 4.0,
+      "neutral": 6.0,
+      "positive": 0.0
+    },
+    "Terrible, not worth the money.\ud83d\ude1e": {
+      "negative": 8.0,
+      "neutral": 2.0,
+      "positive": 0.0
+    },
+    "The instructions were very unclear.": {
+      "negative": 3.0,
+      "neutral": 2.0,
+      "positive": 5.0
+    },
+    "The product broke after a few uses.": {
+      "negative": 9.0,
+      "neutral": 1.0,
+      "positive": 0.0
+    },
+    "This is the best purchase I\u2019ve made.": {
+      "negative": 0.0,
+      "neutral": 2.0,
+      "positive": 8.0
+    },
+    "Total waste of money.": {
+      "negative": 8.0,
+      "neutral": 2.0,
+      "positive": 0.0
+    },
+    "User-friendly and well-designed.": {
+      "negative": 1.0,
+      "neutral": 1.0,
+      "positive": 8.0
+    },
+    "Very cheap material, not durable.": {
+      "negative": 8.0,
+      "neutral": 2.0,
+      "positive": 0.0
+    },
+    "Very reliable and easy to use.": {
+      "negative": 1.0,
+      "neutral": 1.0,
+      "positive": 8.0
+    },
+    "Very underwhelming experience.": {
+      "negative": 7.0,
+      "neutral": 3.0,
+      "positive": 0.0
+    },
+    "Waste of time and money.": {
+      "negative": 8.0,
+      "neutral": 2.0,
+      "positive": 0.0
+    },
+    "Well worth the money.": {
+      "negative": 1.0,
+      "neutral": 1.0,
+      "positive": 8.0
+    },
+    "Wonderful design, highly recommended!": {
+      "negative": 1.0,
+      "neutral": 1.0,
+      "positive": 8.0
+    },
+    "Would definitely recommend to others.": {
+      "negative": 0.0,
+      "neutral": 2.0,
+      "positive": 8.0
+    },
+    "Wouldn\u2019t recommend to others.": {
+      "negative": 7.0,
+      "neutral": 3.0,
+      "positive": 0.0
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "sentimentAnalysisResults": {
+    "Amazing product, highly satisfied!": {
+      "negative": 0.0,
+      "neutral": 2.0,
+      "positive": 8.0
+    }
+  }
+}
